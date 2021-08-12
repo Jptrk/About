@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jptrk
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React, and Three.js
+- 📫 How to reach me? You can contact me through this email (patrickarevalo4@gmail.com).
